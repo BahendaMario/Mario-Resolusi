@@ -4,7 +4,9 @@
   * Mengenal Protokol MQTT
   * Mengenal Penggunaan Broker
   * Mengenal Jenis-jenis Broker
-- Konten SMA
+- Konten SMK
+  * SMK Terbaik
+  * SMK dengan Jurusan TKJ
 - Konten SMA
 - Konten Pemrograman Website
   *HTML

@@ -1,11 +1,12 @@
 - Konten Beasiswa
+  *Beasiswa Bidikmisi
 - Konten Arduino IOT
   * Mengenal Protokol MQTT
   * Mengenal Penggunaan Broker
   * Mengenal Jenis-jenis Broker
-- Konten SMK
+- Konten SMA
 - Konten SMA
 - Konten Pemrograman Website
-  * HTML
-  * CSS
-  * JAVASCRIPT
+  *HTML
+  *CSS
+  *PHP

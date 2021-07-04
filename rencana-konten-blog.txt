@@ -6,3 +6,6 @@
 - Konten SMK
 - Konten SMA
 - Konten Pemrograman Website
+  * HTML
+  * CSS
+  * JAVASCRIPT

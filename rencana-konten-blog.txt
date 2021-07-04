@@ -8,6 +8,8 @@
   * SMK Terbaik
   * SMK dengan Jurusan TKJ
 - Konten SMA
+  * SMA Terbaik
+  * SMA IPA Terbaik
 - Konten Pemrograman Website
   *HTML
   *CSS
